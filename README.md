@@ -1,1 +1,1 @@
-# wild-oasis
+# Full Stack App (JAVA SPRING NEXTJS)
